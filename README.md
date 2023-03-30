@@ -22,7 +22,7 @@ Extra field me κωδικό mydata_taxwh_category τύπου λίστα
 Εδώ έχει όλες τις κατηγορίες από το pdf της ΑΑΔΕ. Επιλέγοντας την κατηγορία που θέλετε (έχει περιγραφές) καταχωρεί τον κωδικό της και το στέλνει στο mydata. Η κατηγορία αποστέλλεται μόνον όταν έχει συμπληρωθεί το ποσό της παρακράτησης στο παραπάνω extra filed.
 
 pdf της ΑΑΔΕ σελ 46 (κατηγορίες παρακράτησης φόρου)
-www.aade.gr/sites/default/files/2020-07/...1.0_official_upd.pdf
+https://www.aade.gr/sites/default/files/2020-07/myDATA%20API%20Documentation%20v1.0_official_upd.pdf
 
 Στις ονομασίες υπάρχουν translation strings. Τα ονομάζεται είτε στα extrafields του module invoice όπως θέλετε ή στις μεταφράσεις εάν θέλετε να έχετε πολλές γλώσσες.
 
