@@ -208,9 +208,9 @@ $request->setBody($body);
 //$request->setBody(var_dump($body));
 try
 {
-	echo $body;
+	//echo $body;
 	$response = $request->send();
-	echo $response->getBody();
+	//echo $response->getBody();
 	//$mydata = $response->getBody();
 
 	$xmlstr = $response->getBody();
